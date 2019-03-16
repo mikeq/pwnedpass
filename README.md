@@ -19,6 +19,8 @@ This application then filters to see if your password hash exists in the list of
 
 ```
 cd pwnedpass
+λ yarn
+...
 λ node index.js -h
   ____                          _   ____                                     _
  |  _ \__      ___ __   ___  __| | |  _ \ __ _ ___ _____      _____  _ __ __| |___
